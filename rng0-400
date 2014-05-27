@@ -1,0 +1,6 @@
+#Conor Wisentaner
+#RNG Test
+#5-26-2014
+n=$((RANDOM%200+200))
+	ECHO $n
+

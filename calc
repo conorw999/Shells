@@ -1,0 +1,11 @@
+#Conor Wisentaner
+#TESTING
+#5-24-2014
+echo $1 + $2
+echo Will calculate sum, difference, product, and whatever the division thingy is.
+echo $1 + $2 = 69
+echo $1 - $2 = 69
+echo $1 * $2 = 69
+echo $1 / $2 = 69
+echo HA.
+
