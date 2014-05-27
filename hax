@@ -38,7 +38,9 @@ cd C:/Users/Conor/pro*/git/S*/T*S/nouse
 cat rename.cs
 cat ~/m*/M*/i*/i*a/M*/D*/R*/R*p/c*/*
 
+cd 'C:\Program Files (x86)\Google\Chrome\Application'
+chrome.exe 'https://www.youtube.com/watch?v=dQw4w9WgXcQ.html'
+
 echo 
 echo
 echo Done.
-xdg-open 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
