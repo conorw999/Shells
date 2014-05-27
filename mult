@@ -2,6 +2,6 @@
 #Multiplication Program
 #5-26-2014
 echo You have entered $1 and $2
-$product=$1*$2
+@ product=$1*$2
 echo $product
 echo Welcome.
